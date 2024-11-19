@@ -1,0 +1,22 @@
+.button-primary {
+    background-color: #3490dc;
+    border-color: #3490dc;
+    color: #ffffff !important;
+}
+
+.button-primary:hover {
+    background-color: #2779bd;
+    border-color: #2779bd;
+}
+
+.mail-header {
+    background-color: #f8fafc;
+    padding: 25px;
+}
+
+.mail-footer {
+    background-color: #f8fafc;
+    padding: 15px;
+    font-size: 12px;
+    color: #718096;
+}
